@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Ming Zhang"
-  avatar           : "xiaoming.png"
-  bio              : "Your biography for the left-hand sidebar????"
-  location         : "UK"
+  avatar           : "xiaoming01.png"
+  bio              : "Research Associate, College Of Engineering And Physical Sci, Aston University, Birmingham, UK"
+  location         : "Birmingham, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Jq0zxJYAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Ming-Zhang-57"
+  researchgate     :  "https://www.researchgate.net/profile/Ming-Zhang-57"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@DRXiaoMing"
   vine             :
   weibo            :
   xing             :
