@@ -6,10 +6,10 @@ excerpt: 'Remanufacturing is an activity of the circular economy model whose pur
 date: 2022-03-22
 venue: 'Applied Sciences'
 paperurl: 'https://doi.org/10.3390/app12073218'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Zhang M, Amaitik N, Wang Z, Xu Y, Maisuradze A, Peschl M, Tzovaras D. Predictive Maintenance for Remanufacturing Based on Hybrid-Driven Remaining Useful Life Prediction. Applied Sciences. 2022; 12(7):3218. https://doi.org/10.3390/app12073218.'
 ---
-% This paper is about the number 1. The number 2 is left for future work.
+Generally, I will publish the code in the end of this year.
 
 [Download paper here](https://doi.org/10.3390/app12073218)
 
-% Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+% Recommended citation: Zhang M, Amaitik N, Wang Z, Xu Y, Maisuradze A, Peschl M, Tzovaras D. Predictive Maintenance for Remanufacturing Based on Hybrid-Driven Remaining Useful Life Prediction. Applied Sciences. 2022; 12(7):3218. https://doi.org/10.3390/app12073218.
