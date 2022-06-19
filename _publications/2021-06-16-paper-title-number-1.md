@@ -8,7 +8,7 @@ venue: 'Mechanical Systems and Signal Processing'
 paperurl: 'https://doi.org/10.1016/j.ymssp.2020.107510'
 citation: 'Wang D, Zhang M, Xu Y, et al. Metric-based meta-learning model for few-shot fault diagnosis under multiple limited data conditions[J]. Mechanical Systems and Signal Processing, 2021, 155: 107510..'
 ---
-Some one interested in this work could find the code in my repertory [mingzhangPHD
+Some one interested in this work could find the code in my repostory [mingzhangPHD
 /Few-shot-Learning-for-Fault-Diagnosis](https://github.com/mingzhangPHD/Few-shot-Learning-for-Fault-Diagnosis)
 
 [Download paper here](https://www.researchgate.net/publication/348910448_Metric-based_meta-learning_model_for_few-shot_fault_diagnosis_under_multiple_limited_data_conditions)
