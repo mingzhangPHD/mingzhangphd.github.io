@@ -6,7 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="917b2c6b-39fc-4084-9b6e-e65fac4d378b" name="Default Changelist" comment="Update about.md">
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/cv.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655651684650</updated>
       <workItem from="1655651686324" duration="9936000" />
-      <workItem from="1655731850317" duration="3145000" />
+      <workItem from="1655731850317" duration="3561000" />
     </task>
     <task id="LOCAL-00001" summary="Update about.md">
       <created>1655652652268</created>
@@ -129,13 +130,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="166" y="97" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1655652946195" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1655758755577">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1655758986708">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1655758755577" />
-    <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1655652125427">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1655758986708" />
+    <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1655759266562">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1655652125427" />
+    <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1655759266562" />
   </component>
 </project>

@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering and Automation, Beijing University of Chemical Technology, Beijing, China, 2011
+* Ph.D in Mechanical Design and Theory, Beijing University of Chemical Technology, Beijing, China, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-2020: Post-doctoral fellow
+  * Tsinghua University
+  * Duties included: **
+  * Supervisor: Professor Bin Liang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020 - ~: Research Associate
+  * Aston University
+  * Duties included: ****
+  * Supervisor: Professor Yuchun Xu
   
 Skills
 ======
